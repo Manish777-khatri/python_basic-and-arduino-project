@@ -1,1 +1,1 @@
-These files are the basic python program that i have practiced during learning of python basic.
+These files are the basic python program that I have practiced during learning of python basic.
